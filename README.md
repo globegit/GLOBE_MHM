@@ -1,2 +1,4 @@
-# GLOBE_MHM
-GLOBE MHM projects
+# GLOBE Mosquito Habitat Mapper Projects
+
+In this repository:
+- GLOBE MHM Demo Notebooks
