@@ -1,0 +1,36 @@
+# requirements file
+
+# jupyter notebook
+jupyter==1.0.0
+
+# requests
+requests==2.22.0
+
+# numpy and ipyleaflet
+numpy==1.18.1
+ipyleaflet==0.12.3
+
+# sklearn for datascience
+sklearn==0.0
+
+# fuzzywuzzy for fuzzy name matching
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.12.0
+
+# bokeh plotting
+bokeh==1.4.0
+fiona==1.8.13.post1
+geographiclib==1.50
+geopy==1.21.0
+geos==0.2.2
+geopandas==0.7.0
+pandas==1.0.1
+descartes==1.1.0
+
+# jupyter code collapse features
+hide-code==0.5.5
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-nbextensions-configurator==0.4.1
+
+
