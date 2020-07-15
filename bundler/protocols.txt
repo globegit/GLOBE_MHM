@@ -1,0 +1,62 @@
+aerosols
+X air_temp_dailies
+X air_temp_monthlies
+X air_temp_noons
+X air_temps
+arctic_birds
+barometric_pressure_noons
+barometric_pressures
+biometry_trees
+carbon_cycle
+X conductivities
+X dissolved_oxygens
+fire_fuel_metadata
+fire_fuel_strata
+fire_fuel_transects
+X freshwater_macroinvertebrates
+frost_tubes
+graminoid_biomasses
+greenings
+X humidities
+X humidity_monthlies
+X humidity_noons
+X hydrology_alkalinities
+X hydrology_phs
+X land_covers
+lilacs
+mosquito_habitat_mapper
+mosquitoes
+nitrates
+ozone_one_hour_after_noons
+ozones
+phenological_gardens
+X precipitation_monthlies
+X precipitations
+X salinities
+sky_condition_noons
+sky_conditions
+snowpacks
+soil_characterizations
+soil_densities
+soil_fertilities
+soil_infiltrations
+soil_layer_descriptions
+soil_moisture_for_smap
+soil_moisture_via_gravimetrics
+soil_moisture_via_sensors
+soil_particle_size_distributions
+soil_phs
+soil_temp_dailies
+soil_temp_monthlies
+soil_temp_noons
+soil_temp_sub_days
+X surface_temperature_noons
+X surface_temperatures
+X transparencies
+tree_heights
+X vegatation_covers
+volumetric_soil_moisture_monthlies
+X water_temperatures
+water_vapor_noons
+water_vapors
+winds

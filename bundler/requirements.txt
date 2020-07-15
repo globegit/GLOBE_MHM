@@ -1,0 +1,24 @@
+# requirements file
+
+# jupyter notebook
+jupyter==1.0.0
+
+# requests
+requests==2.22.0
+
+# ipyleaflet for maps
+ipyleaflet==0.12.3
+
+# geopy to match coordinates to countries
+geopy==1.21.0
+
+# pandas for data tables
+pandas==1.0.1
+
+# jupyter code collapse features
+hide-code==0.5.5
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-nbextensions-configurator==0.4.1
+
+

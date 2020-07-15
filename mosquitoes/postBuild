@@ -1,0 +1,10 @@
+jupyter contrib nbextension install --user
+jupyter nbextension enable collapsible_headings/main
+jupyter nbextension enable hide_input/main
+jupyter nbextension enable hide_input_all/main
+jupyter nbextension enable skip-traceback/main
+jupyter nbextension enable --py --sys-prefix widgetsnbextension
+cp jupyter_notebook_config.py ~/.jupyter/jupyter_notebook_config.py
+
+
+
